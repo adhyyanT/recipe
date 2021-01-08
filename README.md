@@ -1,3 +1,8 @@
+# NOTE
+### 1. To run this site create a file named API_KEY.js under /src/
+### 2. In API_KEY.js create two constants APP_ID and APP_KEY and export them. Eg,  export const APP_ID = "Your_EDAMAM's_Application_ID"; export const APP_KEY = "Your_EDAMAM's_Application_Key";  (place your IDs within quotes).
+### 3. Create a free account on EDAMAM.com and copy paste your Application ID and Application Key in the above constants.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
