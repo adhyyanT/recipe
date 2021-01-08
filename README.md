@@ -1,6 +1,6 @@
 # NOTE
 ### 1. To run this site create a file named API_KEY.js under src/
-### 2. In API_KEY.js create two constants APP_ID and APP_KEY and export them. Eg,  export const APP_ID = "Your_EDAMAM's_Application_ID"; export const APP_KEY = "Your_EDAMAM's_Application_Key";  (place your IDs within quotes).
+### 2. In API_KEY.js create two constants APP_ID and APP_KEY and export them. Example,  export const APP_ID = "Your_EDAMAM's_Application_ID"; export const APP_KEY = "Your_EDAMAM's_Application_Key";  (place your IDs within quotes).
 ### 3. Create a free account on EDAMAM.com and copy paste your Application ID and Application Key in the above constants.
 
 # Getting Started with Create React App
